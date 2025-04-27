@@ -1,28 +1,18 @@
 title: "Kritik Mahesh Kumar"
 description: "AI Enthusiast | CSE Student | Problem Solver"
 author: "Kritik Mahesh Kumar"
-theme: jekyll-theme-dark
-
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+minima:
+  skin: dark
+  
 # SEO settings
 seo:
   title: "Kritik Mahesh Kumar | AI & Software Development"
   description: "AI & Machine Learning student at Manipal Dubai. Passionate about software development and robotics."
   author: "Kritik Mahesh Kumar"
   image: "assets/img/yourimage.jpg"
-
-# Site Navigation
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about"
-  - title: "Projects"
-    url: "/projects"
-  - title: "Blog"
-    url: "/blog"
-  - title: "Contact"
-    url: "/contact"
-
 # Dark Theme Customizations
 defaults:
   - scope:
@@ -36,15 +26,3 @@ defaults:
       accent_color: "#3b3b3b" # dark gray for accents
       button_color: "#333333" # button background color
       button_text_color: "#ffffff" # button text color
-
-# Social Media Links
-social:
-  twitter: "https://twitter.com/kritikmahesh"
-  linkedin: "https://www.linkedin.com/in/kritik-mahesh-kumar-9969b0275"
-  github: "https://github.com/kritikmahesh"
-
-# Google Analytics (optional)
-google_analytics: "UA-XXXXXXXXX-X"
-
-# Markdown processor (optional, if you want to enable markdown support)
-markdown: kramdown
