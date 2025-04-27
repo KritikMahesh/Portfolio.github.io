@@ -1,19 +1,19 @@
 # 👋 Hi, I’m Kritik Mahesh Kumar
 
-📍 Dubai,UAE 
+📍 Dubai,UAE
 📞 +971-50-9751982 | +971-50-9681805  
 ✉️ [kritikmahesh@gmail.com](mailto:kritikmahesh@gmail.com)  
 🔗 [linkedin.com/in/kritik-mahesh-kumar-9969b0275](https://www.linkedin.com/in/kritik-mahesh-kumar-9969b0275)
 
 ---
 
-## 🎯 Objective
+## Objective
 
 Enthusiastic Computer Science & Engineering student at Manipal Dubai with a specialization in AI & Machine Learning and a zeal for solving real-world problems. Actively involved in GDSC & IEEE, proficient in Python, Java, and C++, and passionate about software/web development, AI, and robotics. Eager to join a team where I can contribute, learn, and grow.
 
 ---
 
-## 💼 Experience & Projects
+## Experience & Projects
 
 ### Manipal University (2022 – Present)
 - **Core Team Member**, _GDSC MAHE Dubai_  
@@ -32,7 +32,7 @@ Enthusiastic Computer Science & Engineering student at Manipal Dubai with a spec
 
 ---
 
-## 🎓 Education
+## Education
 
 - **B.Tech, Computer Science** (2022–2026, CGPA > 8.4)  
   Manipal University, Dubai
@@ -41,7 +41,7 @@ Enthusiastic Computer Science & Engineering student at Manipal Dubai with a spec
 
 ---
 
-## 🛠 Skills
+## Skills
 
 - Project Management  
 - Public Relations  
@@ -53,15 +53,15 @@ Enthusiastic Computer Science & Engineering student at Manipal Dubai with a spec
 
 ---
 
-## 🌐 Languages
+## Languages
 
 English |Hindi |Malayalam |Marathi |Telugu
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
-- _IEEE Xtreme Hackathon 2023  _
+- _IEEE Xtreme Hackathon 2023_
 - _AI For All (**Ministry of Education, India & CBSE**)_
 - _Generative AI & Prompt Engineering (**Dubai Future Foundation**)_  
 - _Fundamentals of Reinforcement Learning (**University of Alberta**)_  
