@@ -1,5 +1,4 @@
 # About
-
 Location: Dubai, UAE  
 Contact: +971-50-9751982 | +971-50-9681805  
 Email: [kritikmahesh@gmail.com](mailto:kritikmahesh@gmail.com)  
