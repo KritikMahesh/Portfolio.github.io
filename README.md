@@ -55,7 +55,7 @@ English · Hindi · Malayalam · Marathi · Telugu
 ## Certifications
 
 - IEEE Xtreme Hackathon 2023  
-- AI For All (_Ministry of Education, India & CBSE_)  
+- AI For All (_Ministry of Education, India & Intel_)  
 - Generative AI & Prompt Engineering (_Dubai Future Foundation_)  
 - Fundamentals of Reinforcement Learning (_University of Alberta_)  
 - Red Hat System Administration  
