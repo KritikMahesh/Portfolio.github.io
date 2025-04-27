@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kritik Mahesh Kumar
 
-📍 Al Furjan, Dubai  
+📍 Dubai,UAE 
 📞 +971-50-9751982 | +971-50-9681805  
 ✉️ [kritikmahesh@gmail.com](mailto:kritikmahesh@gmail.com)  
 🔗 [linkedin.com/in/kritik-mahesh-kumar-9969b0275](https://www.linkedin.com/in/kritik-mahesh-kumar-9969b0275)
@@ -16,19 +16,19 @@ Enthusiastic Computer Science & Engineering student at Manipal Dubai with a spec
 ## 💼 Experience & Projects
 
 ### Manipal University (2022 – Present)
-- **Core Team Member**, GDSC MAHE Dubai  
+- **Core Team Member**, _GDSC MAHE Dubai_  
   Organized and led technical workshops, hackathons, and student-led initiatives.
-- **Active Member**, IEEE MAHE Dubai  
+- **Active Member**, _IEEE MAHE Dubai_  
   Contributed to tech-awareness events and innovation challenges.
-- **2nd Place**, BITS GDG CTF (Team “Ghosts”)  
+- **2nd Place**, _BITS GDG CTF_ (Team “Ghosts”)  
   Solved cryptography, forensics, web-exploit, and reverse-engineering challenges.
 - **Projects:**  
   - **DBS App**: Designed a database system for querying and storing structured data.  
   - **Ticket Flix**: FlutterFlow + Firebase app for booking movie tickets with QR code confirmations.
 - **MakeX Robotics Competition**  
-  Represented Manipal Dubai in Abu Dhabi (2023 & 2024).
+  Represented Manipal Dubai **twice** in Abu Dhabi (2023 & 2024).
 - **Cyber Apocalypse CTF 2025**  
-  Ranked 468/6000+ in Hack The Box’s global “Tales from Eldoria” event (reverse-engineering, cryptography, AI).
+  **Ranked 468/6000+** in Hack The Box’s global **_“Tales from Eldoria”_** event (reverse-engineering, cryptography, AI).
 
 ---
 
@@ -55,18 +55,18 @@ Enthusiastic Computer Science & Engineering student at Manipal Dubai with a spec
 
 ## 🌐 Languages
 
-English | Hindi | Malayalam | Marathi | Telugu
+English |Hindi |Malayalam |Marathi |Telugu
 
 ---
 
 ## 🏅 Certifications
 
-- IEEE Xtreme Hackathon 2023  
-- AI For All (Ministry of Education, India & CBSE)  
-- Generative AI & Prompt Engineering (Dubai Future Foundation)  
-- Fundamentals of Reinforcement Learning (University of Alberta)  
-- Red Hat System Administration  
-- Database Management Essentials (University of Colorado)
+- _IEEE Xtreme Hackathon 2023  _
+- _AI For All (**Ministry of Education, India & CBSE**)_
+- _Generative AI & Prompt Engineering (**Dubai Future Foundation**)_  
+- _Fundamentals of Reinforcement Learning (**University of Alberta**)_  
+- _Red Hat System Administration_  
+- _Database Management Essentials (**University of Colorado**)_
 
 ---
 
