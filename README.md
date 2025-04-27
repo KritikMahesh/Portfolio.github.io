@@ -1,4 +1,4 @@
-# Computer Science Engineering
+# About
 
 Location: Dubai, UAE  
 Contact: +971-50-9751982 | +971-50-9681805  
