@@ -1,28 +1,5 @@
-title: "Kritik Mahesh Kumar"
-description: "AI Enthusiast | CSE Student | Problem Solver"
-author: "Kritik Mahesh Kumar"
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
-minima:
-  skin: dark
-  
-# SEO settings
-seo:
-  title: "Kritik Mahesh Kumar | AI & Software Development"
-  description: "AI & Machine Learning student at Manipal Dubai. Passionate about software development and robotics."
-  author: "Kritik Mahesh Kumar"
-  image: "assets/img/yourimage.jpg"
-# Dark Theme Customizations
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: "default"
-      dark_mode: true
-      background_color: "#121212" # dark background
-      text_color: "#ffffff" # light text color for contrast
-      link_color: "#1db954" # green accent for links
-      accent_color: "#3b3b3b" # dark gray for accents
-      button_color: "#333333" # button background color
-      button_text_color: "#ffffff" # button text color
+title: Shaw Talebi
+logo: /assets/img/headshot_circle.png
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal
