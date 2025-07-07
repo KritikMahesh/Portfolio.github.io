@@ -36,7 +36,8 @@ I'm a 4th-year **Computer Science** student at **Manipal University Dubai** spec
 - 🤖 **AI For All** – Intel + Ministry of Education  
 - 🎓 **Fundamentals of Reinforcement Learning** – University of Alberta  
 - 🧰 **Red Hat System Administration**  
-- 🗃️ **Database Management Essentials** – University of Colorado  
+- 🗃️ **Database Management Essentials** – University of Colorado
+
 ---
 
 ## 🧠 Skills & Tools
