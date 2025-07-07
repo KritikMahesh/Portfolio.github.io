@@ -37,17 +37,15 @@ I'm a 4th-year **Computer Science** student at **Manipal University Dubai** spec
 - 🎓 **Fundamentals of Reinforcement Learning** – University of Alberta  
 - 🧰 **Red Hat System Administration**  
 - 🗃️ **Database Management Essentials** – University of Colorado  
-- 🥇 **IEEE Xtreme Hackathon 2023**
-
 ---
 
 ## 🧠 Skills & Tools
 
 **Languages:** Python · Java · C++ · HTML · CSS   
 **AI/ML:** Scikit-learn · TensorFlow · Keras · OpenCV · NumPy · Pandas  
-**Tools:** GitHub · Firebase · FlutterFlow · Linux · VS Code  
-**Databases:**  MySQL   
-**Soft Skills:** Teamwork · Public Speaking · Critical Thinking · UX Design
+**Tools:** GitHub · FlutterFlow · Linux · VS Code  
+**Databases:**  MySQL · Firebase
+**Soft Skills:** Teamwork · Public Speaking · Critical Thinking
 
 ---
 
