@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Kritik Mahesh Kumar</h1>
+<h1 align="center"> Kritik Mahesh Kumar</h1>
 <p align="center">
   🌍 Dubai, UAE &nbsp;|&nbsp; 💻 <a href="https://kritikmahesh.framer.website/" target="_blank">Portfolio</a> &nbsp;|&nbsp; 🔗 <a href="https://linkedin.com/in/kritik-mahesh-kumar-9969b0275" target="_blank">LinkedIn</a><br>
   📧 kritikmahesh@gmail.com &nbsp;|&nbsp; 📞 +971-50-9751982 / +971-50-9681805
@@ -12,7 +12,6 @@ I'm a 4th-year **Computer Science** student at **Manipal University Dubai** spec
 
 - 🔬 Passionate about AI, Robotics & Problem-Solving  
 - 💡 Designing intelligent solutions with real-world impact  
-- 🌐 Creator of [kritikmahesh.framer.website](https://kritikmahesh.framer.website/) — a showcase of my projects, writing & work  
 - 🤝 Actively contributing to **GDSC** and **IEEE MAHE Dubai**
 
 ---
@@ -44,10 +43,10 @@ I'm a 4th-year **Computer Science** student at **Manipal University Dubai** spec
 
 ## 🧠 Skills & Tools
 
-**Languages:** Python · Java · C++ · HTML · CSS · JavaScript  
+**Languages:** Python · Java · C++ · HTML · CSS   
 **AI/ML:** Scikit-learn · TensorFlow · Keras · OpenCV · NumPy · Pandas  
 **Tools:** GitHub · Firebase · FlutterFlow · Linux · VS Code  
-**Databases:** SQL · MySQL · MongoDB  
+**Databases:**  MySQL   
 **Soft Skills:** Teamwork · Public Speaking · Critical Thinking · UX Design
 
 ---
