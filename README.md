@@ -1,66 +1,81 @@
-# About
-Location: Dubai, UAE  
-Contact: +971-50-9751982 | +971-50-9681805  
-Email: [kritikmahesh@gmail.com](mailto:kritikmahesh@gmail.com)  
-LinkedIn: [linkedin.com/in/kritik-mahesh-kumar-9969b0275](https://www.linkedin.com/in/kritik-mahesh-kumar-9969b0275)
+<h1 align="center">🚀 Kritik Mahesh Kumar</h1>
+<p align="center">
+  🌍 Dubai, UAE &nbsp;|&nbsp; 💻 <a href="https://kritikmahesh.framer.website/" target="_blank">Portfolio</a> &nbsp;|&nbsp; 🔗 <a href="https://linkedin.com/in/kritik-mahesh-kumar-9969b0275" target="_blank">LinkedIn</a><br>
+  📧 kritikmahesh@gmail.com &nbsp;|&nbsp; 📞 +971-50-9751982 / +971-50-9681805
+</p>
 
 ---
 
-## Objective
+## 🎯 About Me
 
-Enthusiastic Computer Science & Engineering student at Manipal Dubai, specializing in AI & Machine Learning, with a zeal for solving real-world problems. Actively involved in GDSC and IEEE, proficient in Python, Java, and C++, and passionate about software/web development, AI, and robotics. Eager to join a team where I can contribute, learn, and grow.
+I'm a 4th-year **Computer Science** student at **Manipal University Dubai** specializing in **Artificial Intelligence & Machine Learning**.
 
----
-
-## Experience & Projects
-
-**Manipal University** (2022 – Present)  
-- **Core Team Member**, GDSC MAHE Dubai  
-  Organized and led technical workshops, hackathons, and student-led initiatives.  
-- **Active Member**, IEEE MAHE Dubai  
-  Contributed to tech-awareness events and innovation challenges.  
-- **2nd Place**, BITS GDG CTF (Team “Ghosts”)  
-  Solved challenges in cryptography, digital forensics, web exploitation, and reverse engineering.  
-- **Projects:**  
-  - **DBS App**: Database system for querying and storing structured data.  
-  - **Ticket Flix**: FlutterFlow + Firebase app for booking movie tickets with QR code confirmations.  
-- **MakeX Robotics Competition**  
-  Represented Manipal Dubai twice in Abu Dhabi (2023 and 2024).  
-- **Cyber Apocalypse CTF 2025**  
-  Ranked 468 out of 6000+ in Hack The Box’s “Tales from Eldoria” event, focusing on reverse engineering, cryptography, and AI.
+- 🔬 Passionate about AI, Robotics & Problem-Solving  
+- 💡 Designing intelligent solutions with real-world impact  
+- 🌐 Creator of [kritikmahesh.framer.website](https://kritikmahesh.framer.website/) — a showcase of my projects, writing & work  
+- 🤝 Actively contributing to **GDSC** and **IEEE MAHE Dubai**
 
 ---
 
-## Education
+## 🛠️ What I Do
 
-- **B.Tech, Computer Science** (2022 – 2026, CGPA > 8.4)  
-  Manipal University, Dubai  
-- **Senior Secondary Education** (2020 – 2022, CBSE)  
-  Our Own English High School, Sharjah
+### 💻 AI & Software Projects
+- 🔹 **Ticket Flix** – Movie ticket booking app built using FlutterFlow + Firebase with QR verification
+- 🔹 **DBS App** – Custom-built SQL DBMS project for structured querying and storage
+- 🔹 **CTF Competitions** – Ranked **#468/6000+** in HTB's Cyber Apocalypse 2025
+
+### 🤖 Robotics & Tech Events
+- 🏁 Represented Manipal at **MakeX Robotics Abu Dhabi** (2023 & 2024)
+- 🥈 Won 2nd place at **BITS GDG CTF** (Team “Ghosts”) in cryptography & RE
+- 🧠 IEEE Hackathons, GenAI workshops, and campus-led bootcamps
 
 ---
 
-## Skills
+## 🧾 Certifications
 
-Project Management · Public Relations · Teamwork & Leadership · Time Management · Effective Communication · Critical Thinking · Design Process
+- 🧠 **Generative AI & Prompt Engineering** – Dubai Future Foundation  
+- 🤖 **AI For All** – Intel + Ministry of Education  
+- 🎓 **Fundamentals of Reinforcement Learning** – University of Alberta  
+- 🧰 **Red Hat System Administration**  
+- 🗃️ **Database Management Essentials** – University of Colorado  
+- 🥇 **IEEE Xtreme Hackathon 2023**
 
 ---
 
-## Languages
+## 🧠 Skills & Tools
+
+**Languages:** Python · Java · C++ · HTML · CSS · JavaScript  
+**AI/ML:** Scikit-learn · TensorFlow · Keras · OpenCV · NumPy · Pandas  
+**Tools:** GitHub · Firebase · FlutterFlow · Linux · VS Code  
+**Databases:** SQL · MySQL · MongoDB  
+**Soft Skills:** Teamwork · Public Speaking · Critical Thinking · UX Design
+
+---
+
+## 🎓 Education
+
+**B.Tech – Computer Science & Engineering**  
+📍 Manipal University Dubai (2022 – 2026) · CGPA: 8.4+
+
+**Senior Secondary – CBSE**  
+📍 Our Own English High School, Sharjah (2020 – 2022)
+
+---
+
+## 🌐 Languages I Speak
 
 English · Hindi · Malayalam · Marathi · Telugu
 
 ---
 
-## Certifications
+## 🔗 Connect with Me
 
-- IEEE Xtreme Hackathon 2023  
-- AI For All (_Ministry of Education, India & Intel_)  
-- Generative AI & Prompt Engineering (_Dubai Future Foundation_)  
-- Fundamentals of Reinforcement Learning (_University of Alberta_)  
-- Red Hat System Administration  
-- Database Management Essentials (_University of Colorado_)
+- 📂 Portfolio: [kritikmahesh.framer.website](https://kritikmahesh.framer.website)  
+- 💼 LinkedIn: [linkedin.com/in/kritik-mahesh-kumar-9969b0275](https://www.linkedin.com/in/kritik-mahesh-kumar-9969b0275)  
+- 📧 Email: kritikmahesh@gmail.com
 
 ---
 
-_Feel free to explore my repositories below or reach out if you’d like to collaborate._
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kritikmahesh&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
+</p>
